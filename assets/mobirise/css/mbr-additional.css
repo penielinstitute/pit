@@ -683,6 +683,7 @@ a:hover {
   right: 0;
   top: 0;
   z-index: 0;
+  pointer-events: none;
 }
 blockquote {
   font-style: italic;
@@ -4016,8 +4017,8 @@ body {
   }
 }
 .cid-rduODrqBWY {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #2e2e2e;
 }
 .cid-rduODrqBWY .row-links {
