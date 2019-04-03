@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Peniel Institute of Technology",
-    "currentPage": "index.html",
+    "currentPage": "donate.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2102,7 +2102,7 @@
     },
     "donate.html": {
       "settings": {
-        "meta_descr": "Web Maker Description",
+        "meta_descr": "Help us offer a free 3 month coding bootcamp to Haitian youth from disadvantaged communities",
         "title": "Donation English",
         "order": 2
       },
