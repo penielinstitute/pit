@@ -3208,8 +3208,16 @@ body {
 .cid-rdqsaPpo8Y .dropdown-item:hover {
   color: #e37263 !important;
 }
+.cid-rvSVt0jOy6 {
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rvSVt0jOy6 P {
+  color: #767676;
+}
 .cid-rduIsFqu97 {
-  padding-top: 120px;
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -3310,6 +3318,13 @@ body {
   .cid-rduM56kgGY .mbr-figure {
     padding-top: 3rem;
   }
+}
+.cid-rduM56kgGY .mbr-text,
+.cid-rduM56kgGY .mbr-section-btn {
+  text-align: left;
+}
+.cid-rduM56kgGY .mbr-section-title {
+  text-align: left;
 }
 .cid-rduOyjqxcW {
   padding-top: 30px;
