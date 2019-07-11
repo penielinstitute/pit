@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Peniel Institute of Technology-clone",
-    "currentPage": "donate.html",
+    "currentPage": "french.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -49,8 +49,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "English",
-        "meta_descr": "",
+        "title": "Home (E)",
+        "meta_descr": "We are  a Socially Driven coding school in Haiti, that intends to empower disadvantaged communities by bringing education and employment oppotunities to the youth in inner cities who can later use that knowledge to \"Code\" a better Haiti. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -991,8 +991,8 @@
     },
     "french.html": {
       "settings": {
-        "title": "French",
-        "meta_descr": "",
+        "title": "ACCEUIL",
+        "meta_descr": "Nous sommes une école de codage à charactère sociale en Haïti, qui entend rendre autonome les communautés défavorisées en offrant des possibilités d’éducation et d’emploi aux jeunes des quartiers de non droits, qui pourront plus tard utiliser leurs connaissances pour \"coder\" une Haïti meilleure.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1917,7 +1917,7 @@
     "donate.html": {
       "settings": {
         "meta_descr": "Help us bring education and employment opportunity to the youth of Haiti's disadvantaged communities",
-        "title": "Donation English",
+        "title": "Donation",
         "order": 2
       },
       "components": [
@@ -2638,7 +2638,7 @@
     "donner.html": {
       "settings": {
         "meta_descr": "Web Creator Description",
-        "title": "Donation French",
+        "title": "Donation",
         "order": 3
       },
       "components": [
