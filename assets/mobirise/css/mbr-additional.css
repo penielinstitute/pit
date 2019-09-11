@@ -1920,64 +1920,68 @@ body {
 .cid-rdqsf6T2vX H2 {
   color: #ffffff;
 }
-.cid-rdqsfLDX8V {
-  padding-top: 60px;
-  padding-bottom: 90px;
-  position: relative;
+.cid-rBNhJKv4AA {
+  padding-top: 0px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-rdqsfLDX8V p {
+.cid-rBNhJKv4AA p {
   color: #767676;
 }
-.cid-rdqsfLDX8V .mbr-section-subtitle {
+.cid-rBNhJKv4AA .mbr-section-subtitle {
   color: #767676;
-  font-weight: 300;
+  text-align: left;
 }
-.cid-rdqsfLDX8V .toggle-content {
+.cid-rBNhJKv4AA .accordion-content {
   flex-basis: 100%;
   -webkit-flex-basis: 100%;
 }
-.cid-rdqsfLDX8V .card {
+.cid-rBNhJKv4AA .panel-group {
+  width: 100%;
+}
+.cid-rBNhJKv4AA .card {
   border-radius: 0px;
   margin-bottom: -1px;
 }
-.cid-rdqsfLDX8V .card .card-header {
+.cid-rBNhJKv4AA .card .card-header {
   border-radius: 0px;
   border: 0px;
   padding: 0;
 }
-.cid-rdqsfLDX8V .card .card-header a.panel-title {
+.cid-rBNhJKv4AA .card .card-header a.panel-title {
   margin-bottom: 0;
-  margin-top: -1px;
-  font-weight: 500;
   font-style: normal;
+  font-weight: 500;
   display: block;
   text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
 }
-.cid-rdqsfLDX8V .card .card-header a.panel-title:focus {
+.cid-rBNhJKv4AA .card .card-header a.panel-title:focus {
   text-decoration: none !important;
 }
-.cid-rdqsfLDX8V .card .card-header a.panel-title h4 {
-  border: 1px solid #dfdfdf;
+.cid-rBNhJKv4AA .card .card-header a.panel-title h4 {
   padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
   margin-bottom: 0;
 }
-.cid-rdqsfLDX8V .card .card-header a.panel-title h4 .sign {
+.cid-rBNhJKv4AA .card .card-header a.panel-title h4 .sign {
   padding-right: 1rem;
 }
-.cid-rdqsfLDX8V .mbr-figure {
-  align-self: flex-start;
+.cid-rBNhJKv4AA .mbr-figure {
   -webkit-align-self: flex-start;
+  align-self: flex-start;
+  padding-left: 4rem;
 }
 @media (max-width: 991px) {
-  .cid-rdqsfLDX8V .mbr-figure {
+  .cid-rBNhJKv4AA .mbr-figure {
+    padding-right: 0;
+    padding-left: 0;
     padding-top: 2rem;
   }
 }
-@media (min-width: 992px) {
-  .cid-rdqsfLDX8V .mbr-figure {
-    padding-left: 4rem;
-  }
+.cid-rBNhJKv4AA H2 {
+  text-align: left;
 }
 .cid-rdqsk9xAi9 {
   padding-top: 90px;
